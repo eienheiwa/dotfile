@@ -1,0 +1,4 @@
+
+xrandr --output LVDS-1 --mode 1600x900 --output HDMI-1 --mode 1920x1080 --above LVDS-1
+feh --bg-fill /home/kakoi/Wallpaper/kakoi.webp
+killall a2midid
