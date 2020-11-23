@@ -72,7 +72,7 @@
   # $ nix search wget
     environment.systemPackages = with pkgs; [
       wget git unzip scrot xclip feh neofetch
-      firefox spotify discord
+      firefox spotify discord dropbox
       jack2 libjack2 qjackctl pavucontrol
       puredata supercollider musescore bitwig-studio reaper
       xmobar dmenu alacritty emacs neovim fish
